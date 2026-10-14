@@ -5,7 +5,9 @@
         "@jupyterlab/drawio-extension",
         "jupyterlab-kernel-spy",
         "jupyterlab-tour"
-      ]
+      ],
+       "piplite": {
+	  "packages":[ "lxml", "requests", "matplotlib", "oaipmh_scythe"]} 
     }
   }
   
