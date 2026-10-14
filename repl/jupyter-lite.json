@@ -7,7 +7,7 @@
         "jupyterlab-tour"
       ],
        "piplite": {
-	  "packages":[ "lxml", "requests", "matplotlib", "oaipmh_scythe"]} 
+	  "packages":[ "lxml", "requests", "matplotlib", "oaipmh-scythe"]} 
     }
   }
   
